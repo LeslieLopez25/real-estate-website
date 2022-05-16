@@ -201,6 +201,7 @@ body.dark-theme {
 
 .main {
     overflow: hidden;
+    /* For the animations Scroll Reveal */
 }
 
 /* HEADER & NAV */
